@@ -1,3 +1,4 @@
 hello before rebase
 hello before rebase 1
 hello before rebase 2
+hello before rebase 3
